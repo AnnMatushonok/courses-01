@@ -1,0 +1,22 @@
+.blok1{
+    background-color: rgb(255, 187, 0);
+    padding: 5px;
+    margin: 15px;
+}
+.blok2{
+    background-color: yellowgreen;
+    margin: 15px;
+    text-align: center;
+}
+body{
+    width: 517px;
+    margin: auto;
+}
+.blok3{
+    display: flex;
+    background-color: violet;
+    margin: 15px;
+}
+.blok3 img{
+    margin-right: 15px;
+}

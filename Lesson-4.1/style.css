@@ -1,0 +1,16 @@
+.blok{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+.blok div{
+    background-image: url('./image/Star1.jpg');
+    width: 20px;
+    height: 20px;
+    background-size: cover;
+}
+.blok div:hover{
+    background-image: url('./image/Star2.png');
+    cursor: pointer;
+}

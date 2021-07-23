@@ -1,0 +1,9 @@
+.blok{
+    height: 300px;
+    justify-content: space-between;
+    display: flex;
+}
+   
+div.img{
+    display: flex;
+}
